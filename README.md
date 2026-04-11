@@ -2,6 +2,8 @@
 
 I added a feature on my website for LLM simulations and experiments with various LLM providers, including Claude, ChatGPT, Gemini, Deepseek, Mistral, Qwen and more.
 
+Current simulations include N-1 Parachutes, The Mole / Among Us, and The Walking Dead is in progress.
+
 https://aianimations.pages.dev/
 
 Rates are limited for now, so you can use it 5 times per day.
