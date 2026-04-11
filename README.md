@@ -6,8 +6,6 @@ https://aianimations.pages.dev/
 
 Rates are limited for now, so you can use it 5 times per day.
 
-![CR 18](assets/CR-18.png)
-
 # How to Use
 
 Click 'More', and 'Simulation'. Or follow the images:
