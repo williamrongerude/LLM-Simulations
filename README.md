@@ -4,7 +4,7 @@ I added a feature on my website for LLM simulations and experiments with various
 
 Current simulations include N-1 Parachutes, The Mole / Among Us, and The Walking Dead is in progress.
 
-https://aianimations.pages.dev/
+https://aisimulations.pages.dev/
 
 Rates are limited for now, so you can use it 5 times per day.
 
