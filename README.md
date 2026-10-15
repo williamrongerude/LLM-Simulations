@@ -8,8 +8,6 @@ https://aisimulations.vercel.app
 
 Rates are limited for now, so you can use it 5 times per day.
 
-UPDATE: The website is currently down, sorry for the inconvenience! 
-
 # How to Use
 
 Click 'More', and 'Simulation'. Or follow the images:
