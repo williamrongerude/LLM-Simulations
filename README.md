@@ -19,4 +19,3 @@ Click 'More', and 'Simulation'. Or follow the images:
 ![CR 17](assets/P3.png)
 
 ![CR 7](assets/P4.png)
-
